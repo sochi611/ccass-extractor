@@ -66,7 +66,8 @@ public class Extractor {
 		for (String stockCode : stockCodeLst) {
 			todayCal = Calendar.getInstance();
 			shareCalD1 = Calendar.getInstance();
-
+			
+			// PI from CCASS
 			TopStockPI tPID1 = null;
 			TopStockPI tPID2 = null;
 
