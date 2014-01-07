@@ -67,8 +67,9 @@ public class Extractor {
 			todayCal = Calendar.getInstance();
 			shareCalD1 = Calendar.getInstance();
 			
-			// PI from CCASS
+			// PI from CCASS - Day 0
 			TopStockPI tPID1 = null;
+			// PI from CCASS - Day -1
 			TopStockPI tPID2 = null;
 
 			// turnover percentage check
